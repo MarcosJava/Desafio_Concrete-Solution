@@ -1,0 +1,6 @@
+framework module Pods_Desafio_Marcos_Felipe {
+  umbrella header "Pods-Desafio-Marcos-Felipe-umbrella.h"
+
+  export *
+  module * { export * }
+}

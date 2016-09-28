@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (4.0.0)
+  - Bond (5.0.0-beta7):
+    - ReactiveKit (~> 3.0.0-beta5)
+  - DatePickerCell (1.0.4)
+  - ReactiveKit (3.0.0-beta5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Bond (~> 5.0-beta3)
+  - DatePickerCell (= 1.0.4)
+
+SPEC CHECKSUMS:
+  Alamofire: fef59f00388f267e52d9b432aa5d93dc97190f14
+  Bond: cd115cd0c7c4e7bcde661a32346919077d2d80e4
+  DatePickerCell: 20d2ba8b5cd5bb8a5a79e2b43bc7758e3b65daf2
+  ReactiveKit: 23fd0e4b94758d6a36d9443fe449889ffda84a07
+
+COCOAPODS: 0.39.0
